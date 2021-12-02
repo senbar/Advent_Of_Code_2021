@@ -1,0 +1,16 @@
+C:\Users\Ola\source\repos\Advent_Of_Code_2021\Advent_Of_Code_2021_DAY_2\bin\Debug\net5.0\Advent_Of_Code_2021_DAY_2.exe
+C:\Users\Ola\source\repos\Advent_Of_Code_2021\Advent_Of_Code_2021_DAY_2\bin\Debug\net5.0\Advent_Of_Code_2021_DAY_2.deps.json
+C:\Users\Ola\source\repos\Advent_Of_Code_2021\Advent_Of_Code_2021_DAY_2\bin\Debug\net5.0\Advent_Of_Code_2021_DAY_2.runtimeconfig.json
+C:\Users\Ola\source\repos\Advent_Of_Code_2021\Advent_Of_Code_2021_DAY_2\bin\Debug\net5.0\Advent_Of_Code_2021_DAY_2.runtimeconfig.dev.json
+C:\Users\Ola\source\repos\Advent_Of_Code_2021\Advent_Of_Code_2021_DAY_2\bin\Debug\net5.0\Advent_Of_Code_2021_DAY_2.dll
+C:\Users\Ola\source\repos\Advent_Of_Code_2021\Advent_Of_Code_2021_DAY_2\bin\Debug\net5.0\ref\Advent_Of_Code_2021_DAY_2.dll
+C:\Users\Ola\source\repos\Advent_Of_Code_2021\Advent_Of_Code_2021_DAY_2\bin\Debug\net5.0\Advent_Of_Code_2021_DAY_2.pdb
+C:\Users\Ola\source\repos\Advent_Of_Code_2021\Advent_Of_Code_2021_DAY_2\obj\Debug\net5.0\Advent_Of_Code_2021_DAY_2.csproj.AssemblyReference.cache
+C:\Users\Ola\source\repos\Advent_Of_Code_2021\Advent_Of_Code_2021_DAY_2\obj\Debug\net5.0\Advent_Of_Code_2021_DAY_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ola\source\repos\Advent_Of_Code_2021\Advent_Of_Code_2021_DAY_2\obj\Debug\net5.0\Advent_Of_Code_2021_DAY_2.AssemblyInfoInputs.cache
+C:\Users\Ola\source\repos\Advent_Of_Code_2021\Advent_Of_Code_2021_DAY_2\obj\Debug\net5.0\Advent_Of_Code_2021_DAY_2.AssemblyInfo.cs
+C:\Users\Ola\source\repos\Advent_Of_Code_2021\Advent_Of_Code_2021_DAY_2\obj\Debug\net5.0\Advent_Of_Code_2021_DAY_2.csproj.CoreCompileInputs.cache
+C:\Users\Ola\source\repos\Advent_Of_Code_2021\Advent_Of_Code_2021_DAY_2\obj\Debug\net5.0\Advent_Of_Code_2021_DAY_2.dll
+C:\Users\Ola\source\repos\Advent_Of_Code_2021\Advent_Of_Code_2021_DAY_2\obj\Debug\net5.0\ref\Advent_Of_Code_2021_DAY_2.dll
+C:\Users\Ola\source\repos\Advent_Of_Code_2021\Advent_Of_Code_2021_DAY_2\obj\Debug\net5.0\Advent_Of_Code_2021_DAY_2.pdb
+C:\Users\Ola\source\repos\Advent_Of_Code_2021\Advent_Of_Code_2021_DAY_2\obj\Debug\net5.0\Advent_Of_Code_2021_DAY_2.genruntimeconfig.cache
