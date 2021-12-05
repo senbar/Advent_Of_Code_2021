@@ -43,7 +43,6 @@ namespace DAY_3_Binary_Diagnostic_PART_2
                 int num = listOfLines.Count;
                 if (i > 0)
                 {
-
                     foreach (string oneLine in listOfLines)
                     {
                         string value = oneLine.Substring(i, 1);
@@ -59,7 +58,6 @@ namespace DAY_3_Binary_Diagnostic_PART_2
                 }
                 if (zeros <= ones && listOfLines.Count > 1)
                 {
-
                     for (int n = 0; n < num; n++)
                     {
                         string nLine = listOfLines[n];
@@ -70,12 +68,10 @@ namespace DAY_3_Binary_Diagnostic_PART_2
                             n = n - 1;
                             num = num - 1;
                         }
-
                     }
                 }
                 if (zeros > ones && listOfLines.Count > 1)
                 {
-
                     for (int n = 0; n < num; n++)
                     {
                         string nLine = listOfLines[n];
@@ -86,13 +82,11 @@ namespace DAY_3_Binary_Diagnostic_PART_2
                             n = n - 1;
                             num = num - 1;
                         }
-
                     }
                 }
                 ones = 0;
                 zeros = 0;
             }
-
 
             string oxygen = listOfLines[0];
             List<int> sumOxygen = new List<int>();
@@ -119,7 +113,6 @@ namespace DAY_3_Binary_Diagnostic_PART_2
                 {
                     foreach (string line in System.IO.File.ReadLines(@"../../../DAY_3.txt"))
                     {
-
                         listOfLines.Add(line);
                         string value = line.Substring(a, 1);
 
@@ -135,7 +128,6 @@ namespace DAY_3_Binary_Diagnostic_PART_2
                 }
                 if (a > 0)
                 {
-
                     foreach (string oneLine in listOfLines)
                     {
                         string value = oneLine.Substring(a, 1);
@@ -162,12 +154,10 @@ namespace DAY_3_Binary_Diagnostic_PART_2
                             n = n - 1;
                             num = num - 1;
                         }
-
                     }
                 }
                 if (ones >= zeros && listOfLines.Count > 1)
                 {
-
                     for (int n = 0; n < num; n++)
                     {
                         string nLine = listOfLines[n];
@@ -178,13 +168,11 @@ namespace DAY_3_Binary_Diagnostic_PART_2
                             n = n - 1;
                             num = num - 1;
                         }
-
                     }
                 }
                 ones = 0;
                 zeros = 0;
             }
-
 
             string co = listOfLines[0];
             List<int> sumCo = new List<int>();

@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ola\\source\\repos\\Advent_Of_Code_2021\\Advent_Of_Code_2021_DAY_1\\Advent_Of_Code_2021_DAY_1.csproj",
-      "projectName": "Advent_Of_Code_2021_DAY_1",
-      "projectPath": "C:\\Users\\Ola\\source\\repos\\Advent_Of_Code_2021\\Advent_Of_Code_2021_DAY_1\\Advent_Of_Code_2021_DAY_1.csproj",
+      "projectUniqueName": "C:\\Users\\Ola\\source\\repos\\Advent_Of_Code_2021\\Advent_Of_Code_2021_DAY_1\\Day_1_Sonar_Sweep.csproj",
+      "projectName": "Day_1_Sonar_Sweep",
+      "projectPath": "C:\\Users\\Ola\\source\\repos\\Advent_Of_Code_2021\\Advent_Of_Code_2021_DAY_1\\Day_1_Sonar_Sweep.csproj",
       "packagesPath": "C:\\Users\\Ola\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Ola\\source\\repos\\Advent_Of_Code_2021\\Advent_Of_Code_2021_DAY_1\\obj\\",
       "projectStyle": "PackageReference",

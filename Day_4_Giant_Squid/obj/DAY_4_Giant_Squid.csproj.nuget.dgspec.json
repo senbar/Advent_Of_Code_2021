@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ola\\source\\repos\\Advent_Of_Code_2021\\Day_4_Giant_Squid\\DAY_4_Giant_Squid.csproj": {}
+    "C:\\Users\\Ola\\source\\repos\\Advent_Of_Code_2021\\Day_4_Giant_Squid\\Day_4_Giant_Squid.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ola\\source\\repos\\Advent_Of_Code_2021\\Day_4_Giant_Squid\\DAY_4_Giant_Squid.csproj": {
+    "C:\\Users\\Ola\\source\\repos\\Advent_Of_Code_2021\\Day_4_Giant_Squid\\Day_4_Giant_Squid.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ola\\source\\repos\\Advent_Of_Code_2021\\Day_4_Giant_Squid\\DAY_4_Giant_Squid.csproj",
-        "projectName": "DAY_4_Giant_Squid",
-        "projectPath": "C:\\Users\\Ola\\source\\repos\\Advent_Of_Code_2021\\Day_4_Giant_Squid\\DAY_4_Giant_Squid.csproj",
+        "projectUniqueName": "C:\\Users\\Ola\\source\\repos\\Advent_Of_Code_2021\\Day_4_Giant_Squid\\Day_4_Giant_Squid.csproj",
+        "projectName": "Day_4_Giant_Squid",
+        "projectPath": "C:\\Users\\Ola\\source\\repos\\Advent_Of_Code_2021\\Day_4_Giant_Squid\\Day_4_Giant_Squid.csproj",
         "packagesPath": "C:\\Users\\Ola\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Ola\\source\\repos\\Advent_Of_Code_2021\\Day_4_Giant_Squid\\obj\\",
         "projectStyle": "PackageReference",

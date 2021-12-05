@@ -3,19 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Advent_Of_Code_2021_DAY_1", "Advent_Of_Code_2021_DAY_1\Advent_Of_Code_2021_DAY_1.csproj", "{6113CED5-901D-4FDA-BABE-409AB6186E4D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_1_Sonar_Sweep", "Advent_Of_Code_2021_DAY_1\Day_1_Sonar_Sweep.csproj", "{6113CED5-901D-4FDA-BABE-409AB6186E4D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Advent_Of_Code_2021_DAY_1_PART_2", "Advent_Of_Code_2021_DAY_1_PART_2\Advent_Of_Code_2021_DAY_1_PART_2.csproj", "{BDC08ED6-F302-4666-9BCB-DB3E041F599C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_1_Sonar_Sweep_Part_2", "Advent_Of_Code_2021_DAY_1_PART_2\Day_1_Sonar_Sweep_Part_2.csproj", "{BDC08ED6-F302-4666-9BCB-DB3E041F599C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Advent_Of_Code_2021_DAY_2", "Advent_Of_Code_2021_DAY_2\Advent_Of_Code_2021_DAY_2.csproj", "{8B591839-36F7-4056-8824-02FE24958BE2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_2_Dive", "Advent_Of_Code_2021_DAY_2\Day_2_Dive.csproj", "{8B591839-36F7-4056-8824-02FE24958BE2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Advent_Of_Code_2021_DAY_2_PART_2", "Advent_Of_Code_2021_DAY_2_PART_2\Advent_Of_Code_2021_DAY_2_PART_2.csproj", "{5ADA8399-7CF4-46B0-BEE1-4E2DC8EE48F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_2_Dive_Part_2", "Advent_Of_Code_2021_DAY_2_PART_2\Day_2_Dive_Part_2.csproj", "{5ADA8399-7CF4-46B0-BEE1-4E2DC8EE48F8}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DAY_3_Binary_Diagnostic", "Advent_Of_Code_2021_DAY_3\DAY_3_Binary_Diagnostic.csproj", "{B968B277-4F5E-4C01-A4D2-09138FF9864C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_3_Binary_Diagnostic", "Advent_Of_Code_2021_DAY_3\Day_3_Binary_Diagnostic.csproj", "{B968B277-4F5E-4C01-A4D2-09138FF9864C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAY_4_Giant_Squid", "Day_4_Giant_Squid\DAY_4_Giant_Squid.csproj", "{1940C2EF-67E5-43B3-9A9E-AEB1B53730A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_4_Giant_Squid", "Day_4_Giant_Squid\Day_4_Giant_Squid.csproj", "{1940C2EF-67E5-43B3-9A9E-AEB1B53730A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAY_3_Binary_Diagnostic_PART_2", "DAY_3_Binary_Diagnostic_PART_2\DAY_3_Binary_Diagnostic_PART_2.csproj", "{C5B48081-C5A2-4D57-B60A-C5587146370B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_3_Binary_Diagnostic_Part_2", "DAY_3_Binary_Diagnostic_PART_2\Day_3_Binary_Diagnostic_Part_2.csproj", "{C5B48081-C5A2-4D57-B60A-C5587146370B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_4_Giant_Squid_Part_2", "Day_4_Giant_Squid_Part_2\Day_4_Giant_Squid_Part_2.csproj", "{F2573958-9096-4337-B996-D727F1901016}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{C5B48081-C5A2-4D57-B60A-C5587146370B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5B48081-C5A2-4D57-B60A-C5587146370B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5B48081-C5A2-4D57-B60A-C5587146370B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2573958-9096-4337-B996-D727F1901016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2573958-9096-4337-B996-D727F1901016}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2573958-9096-4337-B996-D727F1901016}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2573958-9096-4337-B996-D727F1901016}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

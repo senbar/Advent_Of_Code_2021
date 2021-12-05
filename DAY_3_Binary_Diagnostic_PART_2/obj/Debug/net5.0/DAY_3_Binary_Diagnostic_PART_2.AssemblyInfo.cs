@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("DAY_3_Binary_Diagnostic_PART_2")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Day_3_Binary_Diagnostic_Part_2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("DAY_3_Binary_Diagnostic_PART_2")]
-[assembly: System.Reflection.AssemblyTitleAttribute("DAY_3_Binary_Diagnostic_PART_2")]
+[assembly: System.Reflection.AssemblyProductAttribute("Day_3_Binary_Diagnostic_Part_2")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Day_3_Binary_Diagnostic_Part_2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Wygenerowane przez klasę WriteCodeFragment programu MSBuild.

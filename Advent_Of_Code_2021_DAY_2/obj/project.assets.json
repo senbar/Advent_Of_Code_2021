@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ola\\source\\repos\\Advent_Of_Code_2021\\Advent_Of_Code_2021_DAY_2\\Advent_Of_Code_2021_DAY_2.csproj",
-      "projectName": "Advent_Of_Code_2021_DAY_2",
-      "projectPath": "C:\\Users\\Ola\\source\\repos\\Advent_Of_Code_2021\\Advent_Of_Code_2021_DAY_2\\Advent_Of_Code_2021_DAY_2.csproj",
+      "projectUniqueName": "C:\\Users\\Ola\\source\\repos\\Advent_Of_Code_2021\\Advent_Of_Code_2021_DAY_2\\Day_2_Dive.csproj",
+      "projectName": "Day_2_Dive",
+      "projectPath": "C:\\Users\\Ola\\source\\repos\\Advent_Of_Code_2021\\Advent_Of_Code_2021_DAY_2\\Day_2_Dive.csproj",
       "packagesPath": "C:\\Users\\Ola\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Ola\\source\\repos\\Advent_Of_Code_2021\\Advent_Of_Code_2021_DAY_2\\obj\\",
       "projectStyle": "PackageReference",

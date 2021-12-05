@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ola\\source\\repos\\Advent_Of_Code_2021\\Advent_Of_Code_2021_DAY_3\\DAY_3_Binary_Diagnostic.csproj": {}
+    "C:\\Users\\Ola\\source\\repos\\Advent_Of_Code_2021\\Advent_Of_Code_2021_DAY_3\\Day_3_Binary_Diagnostic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ola\\source\\repos\\Advent_Of_Code_2021\\Advent_Of_Code_2021_DAY_3\\DAY_3_Binary_Diagnostic.csproj": {
+    "C:\\Users\\Ola\\source\\repos\\Advent_Of_Code_2021\\Advent_Of_Code_2021_DAY_3\\Day_3_Binary_Diagnostic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ola\\source\\repos\\Advent_Of_Code_2021\\Advent_Of_Code_2021_DAY_3\\DAY_3_Binary_Diagnostic.csproj",
-        "projectName": "DAY_3_Binary_Diagnostic",
-        "projectPath": "C:\\Users\\Ola\\source\\repos\\Advent_Of_Code_2021\\Advent_Of_Code_2021_DAY_3\\DAY_3_Binary_Diagnostic.csproj",
+        "projectUniqueName": "C:\\Users\\Ola\\source\\repos\\Advent_Of_Code_2021\\Advent_Of_Code_2021_DAY_3\\Day_3_Binary_Diagnostic.csproj",
+        "projectName": "Day_3_Binary_Diagnostic",
+        "projectPath": "C:\\Users\\Ola\\source\\repos\\Advent_Of_Code_2021\\Advent_Of_Code_2021_DAY_3\\Day_3_Binary_Diagnostic.csproj",
         "packagesPath": "C:\\Users\\Ola\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Ola\\source\\repos\\Advent_Of_Code_2021\\Advent_Of_Code_2021_DAY_3\\obj\\",
         "projectStyle": "PackageReference",
