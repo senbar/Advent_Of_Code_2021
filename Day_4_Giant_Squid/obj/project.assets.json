@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ola\\source\\repos\\Advent_Of_Code_2021\\Advent_Of_Code_2021_DAY_3\\DAY_3_Binary_Diagnostic.csproj",
-      "projectName": "DAY_3_Binary_Diagnostic",
-      "projectPath": "C:\\Users\\Ola\\source\\repos\\Advent_Of_Code_2021\\Advent_Of_Code_2021_DAY_3\\DAY_3_Binary_Diagnostic.csproj",
+      "projectUniqueName": "C:\\Users\\Ola\\source\\repos\\Advent_Of_Code_2021\\Day_4_Giant_Squid\\Day_4_Giant_Squid.csproj",
+      "projectName": "Day_4_Giant_Squid",
+      "projectPath": "C:\\Users\\Ola\\source\\repos\\Advent_Of_Code_2021\\Day_4_Giant_Squid\\Day_4_Giant_Squid.csproj",
       "packagesPath": "C:\\Users\\Ola\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ola\\source\\repos\\Advent_Of_Code_2021\\Advent_Of_Code_2021_DAY_3\\obj\\",
+      "outputPath": "C:\\Users\\Ola\\source\\repos\\Advent_Of_Code_2021\\Day_4_Giant_Squid\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

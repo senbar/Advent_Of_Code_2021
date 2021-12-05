@@ -74,26 +74,26 @@ namespace Advent_Of_Code_2021_DAY_3
                 }
             }
 
-            List<double> sum = new List<double>();
+            List<int> sum = new List<int>();
 
             for (int i = 0; i < lineLength; i++)
             {
                 if (finalListGamma[i] == 1)
                 {
-                    double partOfSum = Math.Pow(2, (lineLength-i-1));
+                    int partOfSum = (int)Math.Pow(2, (lineLength-i-1));
                     sum.Add(partOfSum);
                 }
             }
 
             double gamma = sum.Sum(item => item);
 
-            List<double> sumE = new List<double>();
+            List<int> sumE = new List<int>();
 
             for (int i = 0; i < lineLength; i++)
             {
                 if (finalListEpsilon[i] == 1)
                 {
-                    double partOfSum = Math.Pow(2, (lineLength-i-1));
+                    int partOfSum = (int)Math.Pow(2, (lineLength-i-1));
                     sumE.Add(partOfSum);
                 }
             }
