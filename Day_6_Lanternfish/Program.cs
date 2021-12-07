@@ -37,7 +37,6 @@ namespace Day_6_Lanternfish
                         fishes.Add(8);
                         fishes[k] = 6;
                     }
-
                 }   
             }
             int howManyFishesAtTheEnd = fishes.Count();
