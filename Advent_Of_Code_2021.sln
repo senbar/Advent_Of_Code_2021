@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_3_Binary_Diagnostic_Par
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_4_Giant_Squid_Part_2", "Day_4_Giant_Squid_Part_2\Day_4_Giant_Squid_Part_2.csproj", "{F2573958-9096-4337-B996-D727F1901016}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_5_Hydrothermal_Venture", "Day_5_Hydrothermal_Venture\Day_5_Hydrothermal_Venture.csproj", "{19813F05-0177-4B42-9734-49BCDF840027}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_5_Hydrothermal_Venture", "Day_5_Hydrothermal_Venture\Day_5_Hydrothermal_Venture.csproj", "{19813F05-0177-4B42-9734-49BCDF840027}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_1_Sonar_Sweep", "Day_1_Sonar_Sweep\Day_1_Sonar_Sweep.csproj", "{E5295304-6E92-431B-A311-7FA1C9B281F4}"
 EndProject
@@ -21,11 +21,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_2_Dive_Part_2", "Day_2_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_3_Binary_Diagnostic", "Day_3_Binary_Diagnostic\Day_3_Binary_Diagnostic.csproj", "{A831F783-F78B-4AFE-80A4-A772F423CC81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_5_Hydrothermal_Venture_Part_2", "Day_5_Hydrothermal_Venture_Part_2\Day_5_Hydrothermal_Venture_Part_2.csproj", "{A2E9CEE4-0452-49D8-88FA-E3C84A8C819F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_5_Hydrothermal_Venture_Part_2", "Day_5_Hydrothermal_Venture_Part_2\Day_5_Hydrothermal_Venture_Part_2.csproj", "{A2E9CEE4-0452-49D8-88FA-E3C84A8C819F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_6_Lanternfish", "Day_6_Lanternfish\Day_6_Lanternfish.csproj", "{54A0C22E-6BCE-479C-8B9F-99F34223A901}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_6_Lanternfish", "Day_6_Lanternfish\Day_6_Lanternfish.csproj", "{54A0C22E-6BCE-479C-8B9F-99F34223A901}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_6_Lanternfish_Part_2", "Day_6_Lanternfish_Part_2\Day_6_Lanternfish_Part_2.csproj", "{B7619EAC-2BA2-4E93-8291-C98E26165328}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_6_Lanternfish_Part_2", "Day_6_Lanternfish_Part_2\Day_6_Lanternfish_Part_2.csproj", "{B7619EAC-2BA2-4E93-8291-C98E26165328}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_7_The_Treachery_of_Whales", "Day_7_The_Treachery_of_Whales\Day_7_The_Treachery_of_Whales.csproj", "{FD687C67-8377-4FB0-B415-E4C9C18BDB2A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{B7619EAC-2BA2-4E93-8291-C98E26165328}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7619EAC-2BA2-4E93-8291-C98E26165328}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7619EAC-2BA2-4E93-8291-C98E26165328}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD687C67-8377-4FB0-B415-E4C9C18BDB2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD687C67-8377-4FB0-B415-E4C9C18BDB2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD687C67-8377-4FB0-B415-E4C9C18BDB2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD687C67-8377-4FB0-B415-E4C9C18BDB2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
