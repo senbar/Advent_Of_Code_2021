@@ -27,9 +27,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_6_Lanternfish", "Day_6_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_6_Lanternfish_Part_2", "Day_6_Lanternfish_Part_2\Day_6_Lanternfish_Part_2.csproj", "{B7619EAC-2BA2-4E93-8291-C98E26165328}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_7_The_Treachery_of_Whales", "Day_7_The_Treachery_of_Whales\Day_7_The_Treachery_of_Whales.csproj", "{FD687C67-8377-4FB0-B415-E4C9C18BDB2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_7_The_Treachery_of_Whales", "Day_7_The_Treachery_of_Whales\Day_7_The_Treachery_of_Whales.csproj", "{FD687C67-8377-4FB0-B415-E4C9C18BDB2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_7_The_Treachery_of_Whales_Part_2", "Day_7_The_Treachery_of_Whales_Part_2\Day_7_The_Treachery_of_Whales_Part_2.csproj", "{39E503D8-40FA-4616-8EF8-1B526EDF1818}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_7_The_Treachery_of_Whales_Part_2", "Day_7_The_Treachery_of_Whales_Part_2\Day_7_The_Treachery_of_Whales_Part_2.csproj", "{39E503D8-40FA-4616-8EF8-1B526EDF1818}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_9_Smoke_Basin", "Day_9_Smoke_Basin\Day_9_Smoke_Basin.csproj", "{E5FCF986-6CCC-4E14-B15D-AEA33F5A889C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{39E503D8-40FA-4616-8EF8-1B526EDF1818}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39E503D8-40FA-4616-8EF8-1B526EDF1818}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39E503D8-40FA-4616-8EF8-1B526EDF1818}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5FCF986-6CCC-4E14-B15D-AEA33F5A889C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5FCF986-6CCC-4E14-B15D-AEA33F5A889C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5FCF986-6CCC-4E14-B15D-AEA33F5A889C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5FCF986-6CCC-4E14-B15D-AEA33F5A889C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
