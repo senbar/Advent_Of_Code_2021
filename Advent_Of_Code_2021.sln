@@ -35,7 +35,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_9_Smoke_Basin", "Day_9_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_9_Smoke_Basin_Part_2", "Day_9_Smoke_Basin_Part_2\Day_9_Smoke_Basin_Part_2.csproj", "{B464DF60-386F-4AAA-870B-BC6DD436FC3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_11_Dumbo_Octopus", "Day_11_Dumbo_Octopus\Day_11_Dumbo_Octopus.csproj", "{51585A5C-0C76-4C8E-B894-23F81F4AA337}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_11_Dumbo_Octopus", "Day_11_Dumbo_Octopus\Day_11_Dumbo_Octopus.csproj", "{51585A5C-0C76-4C8E-B894-23F81F4AA337}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_11_Dumbo_Octopus_Part_2", "Day_11_Dumbo_Octopus_Part_2\Day_11_Dumbo_Octopus_Part_2.csproj", "{D5A5DCF5-D0DC-41AF-B474-CF6D8950F14F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{51585A5C-0C76-4C8E-B894-23F81F4AA337}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51585A5C-0C76-4C8E-B894-23F81F4AA337}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51585A5C-0C76-4C8E-B894-23F81F4AA337}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5A5DCF5-D0DC-41AF-B474-CF6D8950F14F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5A5DCF5-D0DC-41AF-B474-CF6D8950F14F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5A5DCF5-D0DC-41AF-B474-CF6D8950F14F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5A5DCF5-D0DC-41AF-B474-CF6D8950F14F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

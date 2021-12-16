@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Day_11_Dumbo_Octopus
+namespace Day_11_Dumbo_Octopus_Part_2
 {
     class Program
     {
@@ -171,8 +171,10 @@ namespace Day_11_Dumbo_Octopus
             int lines = board.Count - 1;
             int columns = oneStringLine.Count - 1;
             int flases = 0;
+            int answer = 0;
+            int howMany = 0;
 
-            for (int times = 0; times < 100; times++)
+            while (howMany == 0)
             {
                 for (int p = 0; p <= lines; p++)
                 {
@@ -200,6 +202,7 @@ namespace Day_11_Dumbo_Octopus
                         }
                     }
                 }
+                answer++;
                 for (int p = 0; p <= lines; p++)
                 {
                     for (int m = 0; m <= columns; m++)
@@ -210,9 +213,25 @@ namespace Day_11_Dumbo_Octopus
                 }
                 Console.WriteLine();
                 Console.WriteLine();
+               
+                for (int p = 0; p <= lines; p++)
+                {
+                    for (int m = 0; m <= columns; m++)
+                    {
+                        if (board[p][m] == 0)
+                        {
+                            howMany++;
+                        }
+                    }
+                }
+                if (howMany != (board.Count * oneStringLine.Count))
+                {
+                    howMany = 0;
+                }
             }
 
-            Console.WriteLine("Answer :   " + flases);
+
+            Console.WriteLine("Answer :   " + answer);
         }
     }
 }
