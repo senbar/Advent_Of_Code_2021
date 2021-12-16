@@ -31,9 +31,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_7_The_Treachery_of_Whal
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_7_The_Treachery_of_Whales_Part_2", "Day_7_The_Treachery_of_Whales_Part_2\Day_7_The_Treachery_of_Whales_Part_2.csproj", "{39E503D8-40FA-4616-8EF8-1B526EDF1818}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_9_Smoke_Basin", "Day_9_Smoke_Basin\Day_9_Smoke_Basin.csproj", "{E5FCF986-6CCC-4E14-B15D-AEA33F5A889C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_9_Smoke_Basin", "Day_9_Smoke_Basin\Day_9_Smoke_Basin.csproj", "{E5FCF986-6CCC-4E14-B15D-AEA33F5A889C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_9_Smoke_Basin_Part_2", "Day_9_Smoke_Basin_Part_2\Day_9_Smoke_Basin_Part_2.csproj", "{B464DF60-386F-4AAA-870B-BC6DD436FC3C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_9_Smoke_Basin_Part_2", "Day_9_Smoke_Basin_Part_2\Day_9_Smoke_Basin_Part_2.csproj", "{B464DF60-386F-4AAA-870B-BC6DD436FC3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_11_Dumbo_Octopus", "Day_11_Dumbo_Octopus\Day_11_Dumbo_Octopus.csproj", "{51585A5C-0C76-4C8E-B894-23F81F4AA337}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{B464DF60-386F-4AAA-870B-BC6DD436FC3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B464DF60-386F-4AAA-870B-BC6DD436FC3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B464DF60-386F-4AAA-870B-BC6DD436FC3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51585A5C-0C76-4C8E-B894-23F81F4AA337}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51585A5C-0C76-4C8E-B894-23F81F4AA337}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51585A5C-0C76-4C8E-B894-23F81F4AA337}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51585A5C-0C76-4C8E-B894-23F81F4AA337}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
