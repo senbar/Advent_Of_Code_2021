@@ -57,7 +57,6 @@ namespace Day_13_Transparent_Origami
             {
                 folding.Add(line);
             }
-            // 
             foreach (string line in folding)
             {
                 string foldingXYandNum = line.Substring(11);
@@ -101,7 +100,6 @@ namespace Day_13_Transparent_Origami
             }
 
             // folding coordinate X or Y
-
             foreach (string line in foldingList)
             {
                 if(line.StartsWith("x="))
@@ -149,7 +147,6 @@ namespace Day_13_Transparent_Origami
                         Console.ForegroundColor = ConsoleColor.Black;
                         Console.Write(board[k][i]);
                     }
-                    
                 }
             }
             Console.WriteLine();
