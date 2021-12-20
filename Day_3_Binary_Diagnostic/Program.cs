@@ -45,9 +45,7 @@ namespace Advent_Of_Code_2021_DAY_3
                     {
                         listOfOnes[i] = listOfOnes[i] + 1;
                     }
-
                 }
-
             }
 
             for (int i = 0; i < lineLength; i++)

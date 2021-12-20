@@ -37,7 +37,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_9_Smoke_Basin_Part_2", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_11_Dumbo_Octopus", "Day_11_Dumbo_Octopus\Day_11_Dumbo_Octopus.csproj", "{51585A5C-0C76-4C8E-B894-23F81F4AA337}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_11_Dumbo_Octopus_Part_2", "Day_11_Dumbo_Octopus_Part_2\Day_11_Dumbo_Octopus_Part_2.csproj", "{D5A5DCF5-D0DC-41AF-B474-CF6D8950F14F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_11_Dumbo_Octopus_Part_2", "Day_11_Dumbo_Octopus_Part_2\Day_11_Dumbo_Octopus_Part_2.csproj", "{D5A5DCF5-D0DC-41AF-B474-CF6D8950F14F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_13_Transparent_Origami", "Day_13_Transparent_Origami\Day_13_Transparent_Origami.csproj", "{3F77D40B-4556-489A-A672-C820F58B494E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{D5A5DCF5-D0DC-41AF-B474-CF6D8950F14F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5A5DCF5-D0DC-41AF-B474-CF6D8950F14F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5A5DCF5-D0DC-41AF-B474-CF6D8950F14F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F77D40B-4556-489A-A672-C820F58B494E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F77D40B-4556-489A-A672-C820F58B494E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F77D40B-4556-489A-A672-C820F58B494E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F77D40B-4556-489A-A672-C820F58B494E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -230,7 +230,6 @@ namespace Day_11_Dumbo_Octopus_Part_2
                 }
             }
 
-
             Console.WriteLine("Answer :   " + answer);
         }
     }
