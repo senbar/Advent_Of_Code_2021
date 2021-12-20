@@ -41,6 +41,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_11_Dumbo_Octopus_Part_2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_13_Transparent_Origami", "Day_13_Transparent_Origami\Day_13_Transparent_Origami.csproj", "{3F77D40B-4556-489A-A672-C820F58B494E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_13_Transparent_Origami_Part_2", "Day_13_Transparent_Origami_Part_2\Day_13_Transparent_Origami_Part_2.csproj", "{AEA9F5BF-7857-400B-BDD4-994E3DD16D72}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{3F77D40B-4556-489A-A672-C820F58B494E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F77D40B-4556-489A-A672-C820F58B494E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F77D40B-4556-489A-A672-C820F58B494E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEA9F5BF-7857-400B-BDD4-994E3DD16D72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEA9F5BF-7857-400B-BDD4-994E3DD16D72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEA9F5BF-7857-400B-BDD4-994E3DD16D72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEA9F5BF-7857-400B-BDD4-994E3DD16D72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
