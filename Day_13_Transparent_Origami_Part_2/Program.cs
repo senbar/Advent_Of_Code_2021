@@ -150,7 +150,6 @@ namespace Day_13_Transparent_Origami
                 }
             }
             Console.WriteLine();
-            Console.WriteLine("Answer:   " + howManyHashes + "  dots are visible");
         }
     }
 }
